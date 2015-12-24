@@ -1,0 +1,20 @@
+Installation Steps
+
+1. npm install from $mearoot
+2. npm install from $mearoot/e2etests
+3. grunt install from $mearoot/e2etests
+
+To run
+grunt test
+
+To debug in webstorm
+working directory = cabernet\e2etests
+javascript file = node_modules/protractor/lib/cli.js
+application parameters = protractor.e2e.conf.js
+
+
+
+TODO:
+Screenrecord
+$ ffmpeg -video_size 1920x1080 -framerate 5 -f dshow -i video="screen-capture-recorder"  -c:v libx264 -crf 28 -preset ultrafast capture.mkv
+http://shawnzhu.blogspot.com/2014/04/feedback-information-from.html

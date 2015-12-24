@@ -1,0 +1,1147 @@
+[
+  {
+    "description": "browser should be defined",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 361
+  },
+  {
+    "description": "mea server is running",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 2837
+  },
+  {
+    "description": "we have wsp credentials to join the meeting",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 124
+  },
+  {
+    "description": "can create user accounts for all the users in our conf",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 3533
+  },
+  {
+    "description": "creating adhoc meeting is successful",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 1121
+  },
+  {
+    "description": "can take us to the caxisMediaInitialization page",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 4413
+  },
+  {
+    "description": "has the UI we expect it to have",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 3310
+  },
+  {
+    "description": "can click on all the buttons",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 2834
+  },
+  {
+    "description": "displays correct text on mouseOver",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 0
+  },
+  {
+    "description": "goes to the main screen on continue button",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 9077
+  },
+  {
+    "description": "meeting created successfully",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 0
+  },
+  {
+    "description": "can get to the embedded page url",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 0
+  },
+  {
+    "description": "creating adhoc meeting is successful",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 1125
+  },
+  {
+    "description": "has the UI in end meeting page we expect it to have",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 5054
+  },
+  {
+    "description": "user has end meeting for all option if his role allows it",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 3283
+  },
+  {
+    "description": "can click on return to the meeting button and take us to main page",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 4642
+  },
+  {
+    "description": "can click on leave this meeting button and take us to meeting ended page",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 3928
+  },
+  {
+    "description": "can click on end meeting for all option (if role allows) and we are taken to the meeting ended page",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 3940
+  },
+  {
+    "description": "has the UI in end meeting page we expect it to have",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 4882
+  },
+  {
+    "description": "can click on no-exit confirmation checkbox",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 3737
+  },
+  {
+    "description": "user has end meeting for all option if his role allows it",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 3690
+  },
+  {
+    "description": "can click on return to the meeting button and take us to main page",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 4244
+  },
+  {
+    "description": "can click on leave this meeting button and take us to meeting ended page",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 4284
+  },
+  {
+    "description": "can click on end meeting for all option (if role allows) and we are taken to the meeting ended page",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 3860
+  },
+  {
+    "description": "has the UI in end meeting page we expect it to have",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 5439
+  },
+  {
+    "description": "can click on no-exit confirmation checkbox",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 4992
+  },
+  {
+    "description": "user has end meeting for all option if his role allows it",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 4948
+  },
+  {
+    "description": "can click on return to the meeting button and take us to main page",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 5646
+  },
+  {
+    "description": "can click on leave this meeting button and take us to meeting ended page",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 5412
+  },
+  {
+    "description": "can click on end meeting for all option (if role allows) and we are taken to the meeting ended page",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 5099
+  },
+  {
+    "description": "can create meeting for test case with meeting has not started",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 0
+  },
+  {
+    "description": "can create meeting for test case with test cancelled meeting",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 0
+  },
+  {
+    "description": "can create meeting for test case with missing participant pin",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 0
+  },
+  {
+    "description": "can create meeting for test case with invalid participant pin",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 0
+  },
+  {
+    "description": "can create meeting for test case with auth required meeting",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 0
+  },
+  {
+    "description": "can create meeting for test case with meeting to test invalid credentials",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 0
+  },
+  {
+    "description": "can cancel created meeting",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 0
+  },
+  {
+    "description": "can see notification for meeting has not started",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 0
+  },
+  {
+    "description": "can see notification for test cancelled meeting",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 0
+  },
+  {
+    "description": "can see notification for missing participant pin",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 0
+  },
+  {
+    "description": "can see notification for invalid participant pin",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 0
+  },
+  {
+    "description": "can see notification for auth required meeting",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 0
+  },
+  {
+    "description": "can see notification for meeting to test invalid credentials",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 1
+  },
+  {
+    "description": "can take us to the login page",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 1483
+  },
+  {
+    "description": "has the UI we expect",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 2603
+  },
+  {
+    "description": "can take us to the login page",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 1371
+  },
+  {
+    "description": "can toggle guest mode",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 1840
+  },
+  {
+    "description": "shows AVC Help tooltip we expect",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 2508
+  },
+  {
+    "description": "can toggle AVC mode",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 1704
+  },
+  {
+    "description": "can toggle remember me",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 1686
+  },
+  {
+    "description": "can add meetingID and meetingPin",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 1758
+  },
+  {
+    "description": "can fill in guest information",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 2104
+  },
+  {
+    "description": "can fill in authenticated user information",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 1809
+  },
+  {
+    "description": "can work with all the page elements",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 3124
+  },
+  {
+    "description": "can accept guest user info in url",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 136
+  },
+  {
+    "description": "can accept meeting info in url",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 4245
+  },
+  {
+    "description": "can do auto login if we give sufficient params",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 1776
+  },
+  {
+    "description": "we store guest user information in a cookie",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 6815
+  },
+  {
+    "description": "we store auth user information in a cookie",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 5243
+  },
+  {
+    "description": "all the cookies we store have secure flag",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 12406
+  },
+  {
+    "description": "creating adhoc meeting is successful",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 758
+  },
+  {
+    "description": "can take us to the main page",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 11890
+  },
+  {
+    "description": "has the main menu icons we expect to have",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 12180
+  },
+  {
+    "description": "can take us to the main page",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 12331
+  },
+  {
+    "description": "has the main menu icons we expect to have",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 12839
+  },
+  {
+    "description": "can click on content menu",
+    "assertions": [
+      {
+        "passed": false,
+        "errorMsg": "Expected false to be true.",
+        "stackTrace": "Error: Failed expectation\n    at Object.<anonymous> (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\pageObjects\\mainPage-spec.js:102:63)\n    at C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:96:23\n    at new promise.Promise (C:/Users/shli/Desktop/chardonnay/e2etests/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/../webdriver/promise.js:368:5)\n    at controlFlowExecute (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:82:18)\n    at [object Object].promise.ControlFlow.runInFrame_ (C:/Users/shli/Desktop/chardonnay/e2etests/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/../webdriver/promise.js:1857:20)\n    at [object Object].promise.ControlFlow.runEventLoop_ (C:/Users/shli/Desktop/chardonnay/e2etests/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/../webdriver/promise.js:1729:8)\n    at [object Object].eval (C:/Users/shli/Desktop/chardonnay/e2etests/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/../webdriver/promise.js:2043:12)\n    at goog.async.run.processWorkQueue (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\goog\\async\\run.js:130:15)"
+      }
+    ],
+    "duration": 12240
+  },
+  {
+    "description": "can click on main menu buttons",
+    "assertions": [
+      {
+        "passed": false,
+        "errorMsg": "Expected false to be true.",
+        "stackTrace": "Error: Failed expectation\n    at Object.<anonymous> (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\pageObjects\\mainPage-spec.js:108:60)\n    at C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:96:23\n    at new promise.Promise (C:/Users/shli/Desktop/chardonnay/e2etests/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/../webdriver/promise.js:368:5)\n    at controlFlowExecute (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:82:18)\n    at [object Object].promise.ControlFlow.runInFrame_ (C:/Users/shli/Desktop/chardonnay/e2etests/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/../webdriver/promise.js:1857:20)\n    at [object Object].promise.ControlFlow.runEventLoop_ (C:/Users/shli/Desktop/chardonnay/e2etests/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/../webdriver/promise.js:1729:8)\n    at [object Object].eval (C:/Users/shli/Desktop/chardonnay/e2etests/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/../webdriver/promise.js:2043:12)\n    at goog.async.run.processWorkQueue (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\goog\\async\\run.js:130:15)"
+      },
+      {
+        "passed": false,
+        "errorMsg": "Expected false to be true.",
+        "stackTrace": "Error: Failed expectation\n    at Object.<anonymous> (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\pageObjects\\mainPage-spec.js:111:64)\n    at C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:96:23\n    at new promise.Promise (C:/Users/shli/Desktop/chardonnay/e2etests/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/../webdriver/promise.js:368:5)\n    at controlFlowExecute (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:82:18)\n    at [object Object].promise.ControlFlow.runInFrame_ (C:/Users/shli/Desktop/chardonnay/e2etests/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/../webdriver/promise.js:1857:20)\n    at [object Object].promise.ControlFlow.runEventLoop_ (C:/Users/shli/Desktop/chardonnay/e2etests/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/../webdriver/promise.js:1729:8)\n    at [object Object].eval (C:/Users/shli/Desktop/chardonnay/e2etests/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/../webdriver/promise.js:2043:12)\n    at goog.async.run.processWorkQueue (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\goog\\async\\run.js:130:15)"
+      },
+      {
+        "passed": false,
+        "errorMsg": "Expected false to be true.",
+        "stackTrace": "Error: Failed expectation\n    at Object.<anonymous> (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\pageObjects\\mainPage-spec.js:114:67)\n    at C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:96:23\n    at new promise.Promise (C:/Users/shli/Desktop/chardonnay/e2etests/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/../webdriver/promise.js:368:5)\n    at controlFlowExecute (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:82:18)\n    at [object Object].promise.ControlFlow.runInFrame_ (C:/Users/shli/Desktop/chardonnay/e2etests/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/../webdriver/promise.js:1857:20)\n    at [object Object].promise.ControlFlow.runEventLoop_ (C:/Users/shli/Desktop/chardonnay/e2etests/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/../webdriver/promise.js:1729:8)\n    at [object Object].eval (C:/Users/shli/Desktop/chardonnay/e2etests/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/../webdriver/promise.js:2043:12)\n    at goog.async.run.processWorkQueue (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\goog\\async\\run.js:130:15)"
+      },
+      {
+        "passed": false,
+        "errorMsg": "Expected true to be false.",
+        "stackTrace": "Error: Failed expectation\n    at Object.<anonymous> (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\pageObjects\\mainPage-spec.js:117:70)\n    at C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:96:23\n    at new promise.Promise (C:/Users/shli/Desktop/chardonnay/e2etests/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/../webdriver/promise.js:368:5)\n    at controlFlowExecute (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:82:18)\n    at [object Object].promise.ControlFlow.runInFrame_ (C:/Users/shli/Desktop/chardonnay/e2etests/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/../webdriver/promise.js:1857:20)\n    at [object Object].promise.ControlFlow.runEventLoop_ (C:/Users/shli/Desktop/chardonnay/e2etests/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/../webdriver/promise.js:1729:8)\n    at [object Object].eval (C:/Users/shli/Desktop/chardonnay/e2etests/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/../webdriver/promise.js:2043:12)\n    at goog.async.run.processWorkQueue (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\goog\\async\\run.js:130:15)"
+      }
+    ],
+    "duration": 13118
+  },
+  {
+    "description": "can click on end button ",
+    "assertions": [
+      {
+        "passed": false,
+        "errorMsg": "Expected null to be true.",
+        "stackTrace": "Error: Failed expectation\n    at Object.<anonymous> (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\pageObjects\\mainPage-spec.js:130:63)\n    at C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:96:23\n    at new promise.Promise (C:/Users/shli/Desktop/chardonnay/e2etests/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/../webdriver/promise.js:368:5)\n    at controlFlowExecute (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:82:18)\n    at [object Object].promise.ControlFlow.runInFrame_ (C:/Users/shli/Desktop/chardonnay/e2etests/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/../webdriver/promise.js:1857:20)\n    at [object Object].promise.ControlFlow.runEventLoop_ (C:/Users/shli/Desktop/chardonnay/e2etests/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/../webdriver/promise.js:1729:8)\n    at [object Object].eval (C:/Users/shli/Desktop/chardonnay/e2etests/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/../webdriver/promise.js:2043:12)\n    at goog.async.run.processWorkQueue (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\goog\\async\\run.js:130:15)"
+      }
+    ],
+    "duration": 12109
+  },
+  {
+    "description": "displays correct text on mouseOver",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 0
+  },
+  {
+    "description": "creating adhoc meeting is successful",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 1020
+  },
+  {
+    "description": "has the UI we expect it to have",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 13259
+  },
+  {
+    "description": "can interact with other side menu buttons",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 13446
+  },
+  {
+    "description": "help button launches help",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 14773
+  },
+  {
+    "description": "has the UI we expect it to have",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 14032
+  },
+  {
+    "description": "can interact with other side menu buttons",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 16311
+  },
+  {
+    "description": "has link to the meeting to send to others",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 9806
+  },
+  {
+    "description": "can get more information",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 10158
+  },
+  {
+    "description": "creating adhoc meeting is successful",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 908
+  },
+  {
+    "description": "UnauthenticatedUsersJoinAs works as expected",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 3795
+  },
+  {
+    "description": "HostJoinsAs works as expected",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 3618
+  },
+  {
+    "description": "UsersSharingHostDomainJoinAs works as expected",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 3694
+  },
+  {
+    "description": "creating adhoc meeting is successful",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 909
+  },
+  {
+    "description": "can login and exchange messages",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 11461
+  },
+  {
+    "description": "can show badge notifications for missed chats",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 9127
+  },
+  {
+    "description": "can show header chat notifications for missed if no tabs are open",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 0
+  },
+  {
+    "description": "chat persists through rejoin",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 9073
+  },
+  {
+    "description": "creating adhoc meeting is successful",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 0
+  },
+  {
+    "description": "chair can see other users",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 0
+  },
+  {
+    "description": "chair can demote other users",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 0
+  },
+  {
+    "description": "chair can promote other users",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 0
+  },
+  {
+    "description": "chair can drop other users",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 0
+  },
+  {
+    "description": "can drop participant and guest from the meeting",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 17691
+  },
+  {
+    "description": "can promote user: participant -> 2nd chairperson, and drop 2nd chairperson from the meeting ",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 17769
+  },
+  {
+    "description": "can promote user: guest -> participant -> 2nd chairperson, and demote user: 2nd chairperson -> participant -> guest",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 23548
+  },
+  {
+    "description": "can drop the original chairperson from the meeting",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 17749
+  },
+  {
+    "description": "can change the role of other users, including the original chairperson and drop them from the meeting",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 40726
+  },
+  {
+    "description": "can click all groups heading, show correct total attendee count and correct group title Info",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 26064
+  },
+  {
+    "description": "guest can make a request for sharing content and chairperson can ignore it",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 15325
+  },
+  {
+    "description": "guest can make a request for sharing content and chairperson can allow it",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 14519
+  },
+  {
+    "description": "the demoted guest can make a request for sharing content and chairperson can ignore it",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 17696
+  },
+  {
+    "description": "the demoted guest can make a request for sharing content and chairperson can allow it",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 17430
+  },
+  {
+    "description": "guest can make a request for sharing content and the 2nd chairperson can ignore it",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 17326
+  },
+  {
+    "description": "guest can make a request for sharing content and the 2nd chairperson can allow it",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 16943
+  },
+  {
+    "description": "can mute and unmute all other attendees",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 44627
+  },
+  {
+    "description": "can mute and umute attendee",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 48368
+  },
+  {
+    "description": "creating adhoc meeting is successful",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 938
+  },
+  {
+    "description": "can respond to our request auth.Login(good credentials)",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 1801
+  },
+  {
+    "description": "can respond to our request auth.Login(bad credentials)",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 1425
+  },
+  {
+    "description": "creating adhoc meeting is successful",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 851
+  },
+  {
+    "description": "onload=callback loads mea in byod mode",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 1856
+  },
+  {
+    "description": "gave us the inited event on load",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 1219
+  },
+  {
+    "description": "creating adhoc meeting is successful",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 900
+  },
+  {
+    "description": "can respond to our request JoinRequest(meetingID)",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 2480
+  },
+  {
+    "description": "creating adhoc meeting is successful",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 958
+  },
+  {
+    "description": "can respond to our request ServiceListRequest",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 1298
+  },
+  {
+    "description": "can respond to our request ServiceVersionRequest_Good_Example1",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 1234
+  },
+  {
+    "description": "can respond to our request ServiceVersionRequest_Good_Example2",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 1281
+  },
+  {
+    "description": "can respond to our request ServiceVersionRequest_Bad_Example1",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 1300
+  },
+  {
+    "description": "can respond to our request ServiceVersionRequest_Bad_Example2",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 1261
+  },
+  {
+    "description": "can respond to our request polycom.getVersion()",
+    "assertions": [
+      {
+        "passed": false,
+        "errorMsg": "Expected [ Object({ source: 'polycom', event: 'version', value: Object({ error: Object({ status: 404, reason: 'Invalid status code from server' }) }) }) ] to equal [ Object({ source: 'polycom', event: 'version', value: Object({ error: Object({ status: 404, reason: 'Invalid status code from server' }), version: Function }) }) ].",
+        "stackTrace": "Error: Failed expectation\n    at C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\features\\byod\\polycom-spec.js:172:47\n    at tryCatcher (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\bluebird\\js\\main\\util.js:26:23)\n    at Promise._settlePromiseFromHandler (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\bluebird\\js\\main\\promise.js:507:31)\n    at Promise._settlePromiseAt (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\bluebird\\js\\main\\promise.js:581:18)\n    at Async._drainQueue (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\bluebird\\js\\main\\async.js:128:12)\n    at Async._drainQueues (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\bluebird\\js\\main\\async.js:133:10)\n    at Immediate.Async.drainQueues [as _onImmediate] (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\bluebird\\js\\main\\async.js:15:14)\n    at processImmediate [as _immediateCallback] (timers.js:368:17)"
+      }
+    ],
+    "duration": 1402
+  },
+  {
+    "description": "can respond to our request polycom.setLogLevel({level: \"error\"})",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 1284
+  },
+  {
+    "description": "should have strict-transport-security:max-age=31536000; includeSubdomains;",
+    "assertions": [
+      {
+        "passed": false,
+        "errorMsg": "Failed: Got http.get error: Hostname/IP doesn't match certificate's altnames: \"IP: 10.228.14.244 is not in the cert's list: \"",
+        "stackTrace": "Error: Failed: Got http.get error: Hostname/IP doesn't match certificate's altnames: \"IP: 10.228.14.244 is not in the cert's list: \"\n    at stack (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\protractor\\node_modules\\jasmine\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1482:17)\n    at buildExpectationResult (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\protractor\\node_modules\\jasmine\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1452:14)\n    at Spec.Env.expectationResultFactory (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\protractor\\node_modules\\jasmine\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:583:18)\n    at Spec.addExpectationResult (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\protractor\\node_modules\\jasmine\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:324:34)\n    at Env.fail (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\protractor\\node_modules\\jasmine\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:894:25)\n    at Function.next.fail (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\protractor\\node_modules\\jasmine\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1806:19)\n    at C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:101:16\n    at [object Object].promise.ControlFlow.runInFrame_ (C:/Users/shli/Desktop/chardonnay/e2etests/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/../webdriver/promise.js:1857:20)\n    at [object Object].goog.defineClass.notify (C:/Users/shli/Desktop/chardonnay/e2etests/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/../webdriver/promise.js:2448:25)\n    at [object Object].promise.Promise.notify_ (C:/Users/shli/Desktop/chardonnay/e2etests/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/../webdriver/promise.js:564:12)\n    at Array.forEach (native)\n    at [object Object].promise.Promise.notifyAll_ (C:/Users/shli/Desktop/chardonnay/e2etests/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/../webdriver/promise.js:553:15)\n    at goog.async.run.processWorkQueue (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\goog\\async\\run.js:130:15)\n    at process._tickCallback (node.js:366:9)"
+      }
+    ],
+    "duration": 141
+  },
+  {
+    "description": "should have x-content-type-options:nosniff",
+    "assertions": [
+      {
+        "passed": false,
+        "errorMsg": "Failed: Got http.get error: Hostname/IP doesn't match certificate's altnames: \"IP: 10.228.14.244 is not in the cert's list: \"",
+        "stackTrace": "Error: Failed: Got http.get error: Hostname/IP doesn't match certificate's altnames: \"IP: 10.228.14.244 is not in the cert's list: \"\n    at stack (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\protractor\\node_modules\\jasmine\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1482:17)\n    at buildExpectationResult (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\protractor\\node_modules\\jasmine\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1452:14)\n    at Spec.Env.expectationResultFactory (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\protractor\\node_modules\\jasmine\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:583:18)\n    at Spec.addExpectationResult (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\protractor\\node_modules\\jasmine\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:324:34)\n    at Env.fail (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\protractor\\node_modules\\jasmine\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:894:25)\n    at Function.next.fail (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\protractor\\node_modules\\jasmine\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1806:19)\n    at C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:101:16\n    at [object Object].promise.ControlFlow.runInFrame_ (C:/Users/shli/Desktop/chardonnay/e2etests/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/../webdriver/promise.js:1857:20)\n    at [object Object].goog.defineClass.notify (C:/Users/shli/Desktop/chardonnay/e2etests/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/../webdriver/promise.js:2448:25)\n    at [object Object].promise.Promise.notify_ (C:/Users/shli/Desktop/chardonnay/e2etests/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/../webdriver/promise.js:564:12)\n    at Array.forEach (native)\n    at [object Object].promise.Promise.notifyAll_ (C:/Users/shli/Desktop/chardonnay/e2etests/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/../webdriver/promise.js:553:15)\n    at goog.async.run.processWorkQueue (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\goog\\async\\run.js:130:15)\n    at process._tickCallback (node.js:366:9)"
+      }
+    ],
+    "duration": 138
+  },
+  {
+    "description": "should not have engine.io unsecured cookie ",
+    "assertions": [
+      {
+        "passed": false,
+        "errorMsg": "Failed: Got http.get error: Hostname/IP doesn't match certificate's altnames: \"IP: 10.228.14.244 is not in the cert's list: \"",
+        "stackTrace": "Error: Failed: Got http.get error: Hostname/IP doesn't match certificate's altnames: \"IP: 10.228.14.244 is not in the cert's list: \"\n    at stack (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\protractor\\node_modules\\jasmine\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1482:17)\n    at buildExpectationResult (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\protractor\\node_modules\\jasmine\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1452:14)\n    at Spec.Env.expectationResultFactory (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\protractor\\node_modules\\jasmine\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:583:18)\n    at Spec.addExpectationResult (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\protractor\\node_modules\\jasmine\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:324:34)\n    at Env.fail (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\protractor\\node_modules\\jasmine\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:894:25)\n    at Function.next.fail (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\protractor\\node_modules\\jasmine\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1806:19)\n    at C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:101:16\n    at [object Object].promise.ControlFlow.runInFrame_ (C:/Users/shli/Desktop/chardonnay/e2etests/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/../webdriver/promise.js:1857:20)\n    at [object Object].goog.defineClass.notify (C:/Users/shli/Desktop/chardonnay/e2etests/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/../webdriver/promise.js:2448:25)\n    at [object Object].promise.Promise.notify_ (C:/Users/shli/Desktop/chardonnay/e2etests/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/../webdriver/promise.js:564:12)\n    at Array.forEach (native)\n    at [object Object].promise.Promise.notifyAll_ (C:/Users/shli/Desktop/chardonnay/e2etests/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/../webdriver/promise.js:553:15)\n    at goog.async.run.processWorkQueue (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\goog\\async\\run.js:130:15)\n    at process._tickCallback (node.js:366:9)"
+      }
+    ],
+    "duration": 129
+  }
+]

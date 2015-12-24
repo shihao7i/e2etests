@@ -1,0 +1,110 @@
+{
+    "test_config": {
+        "meetings": {
+            "default": [
+                {
+                    "id": "771046"
+                },
+                {
+                    "id": "779002"
+                },
+                {
+                    "id": "779001"
+                },
+                {
+                    "id": "772771"
+                }
+            ]
+        },
+        "users": {
+            "authenticated": [
+                {
+                    "userName": "e2euser1",
+                    "password": "e2euser1",
+                    "firstName": "ProTractor",
+                    "lastName": "User1",
+                    "isGuest": false,
+                    "email": "e2euser1@localhost.com"
+                },
+                {
+                    "userName": "e2euser2",
+                    "password": "e2euser2",
+                    "email": "e2euser2@localhost.com",
+                    "firstName": "ProTractor",
+                    "isGuest": false,
+                    "lastName": "User2"
+                },
+                {
+                    "userName": "e2euser3",
+                    "password": "e2euser3",
+                    "email": "e2euser3@localhost.com",
+                    "firstName": "ProTractor",
+                    "isGuest": false,
+                    "lastName": "User3"
+                },
+                {   "userName": "devtest07",
+                    "password": "Polycom123",
+                    "email": "e2euser4@localhost.com",
+                    "isGuest": false
+                },
+                {
+                    "userName": "devtest08",
+                    "password": "Polycom123",
+                    "email": "e2euser5@localhost.com",
+                    "isGuest": false
+                }
+            ],
+            "guest": [
+                {
+                    "isGuest": true,
+                    "userName": "p1",
+                    "email": "p1@localhost"
+                },
+                {
+                    "isGuest": true,
+                    "userName": "p2",
+                    "email": "p2@localhost"
+                },
+                {
+                    "isGuest": true,
+                    "userName": "p3",
+                    "email": "p3@localhost"
+                },
+                {
+                    "isGuest": true,
+                    "userName": "p4",
+                    "email": "p4@localhost"
+                },
+                {
+                    "isGuest": true,
+                    "userName": "p5",
+                    "email": "p5@localhost"
+                },
+                {
+                    "isGuest": true,
+                    "userName": "p6",
+                    "email": "p6@localhost"
+                },
+                {
+                    "isGuest": true,
+                    "userName": "p7",
+                    "email": "p7@localhost"
+                },
+                {
+                    "isGuest": true,
+                    "userName": "p8",
+                    "email": "p8@localhost"
+                },
+                {
+                    "isGuest": true,
+                    "userName": "p9",
+                    "email": "p9@localhost"
+                }
+            ]
+        },
+        "pixdiff": {
+            "test": true,
+            "generate": true
+        }
+    }
+}
