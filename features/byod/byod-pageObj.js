@@ -27,7 +27,7 @@ var EmbeddedUser = function(userInfo, meetingInfo, browser) {
     this.callbackResponses = $$('.callbackResponse');
     this.skipButton = $('[ng-click="skipClientSetup()"]');
 
-    this.INITED_MESSAGE = {'source':'polycom','event':'init','value': {init: true}};
+    this.INITED_MESSAGE = {'source':'','event':'init','value': {init: true}};
 
 
     this.waitForCallbackResponse = function(nEvents) {

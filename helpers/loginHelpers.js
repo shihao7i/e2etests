@@ -1,7 +1,7 @@
 
 var nconf = require('nconf'),
     encryption = require('plcm-encryption'),
-    wspAgentType = "wsp-authentication/polycom.mea.agent.wsp-authentication",
+    wspAgentType = "wsp-authentication/.mea.agent.wsp-authentication",
     wspClientLib = require('wsp-rest-client'),
     credentialKey = "targetcredentials",
     Promise = require('bluebird'),

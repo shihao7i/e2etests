@@ -37,7 +37,7 @@ function httpGet(siteUrl) {
     return defer.promise;
 }
 
-//https://jira.polycom.com:8443/browse/CAXIS-11520
+//https://jira..com:8443/browse/CAXIS-11520
 describe('check response headers', function() {
     var securityflags = {
         'strict-transport-security': 'max-age=31536000; includeSubdomains;',

@@ -43,13 +43,13 @@
                     "lastName": "User3"
                 },
                 {   "userName": "devtest07",
-                    "password": "Polycom123",
+                    "password": "123",
                     "email": "e2euser4@localhost.com",
                     "isGuest": false
                 },
                 {
                     "userName": "devtest08",
-                    "password": "Polycom123",
+                    "password": "123",
                     "email": "e2euser5@localhost.com",
                     "isGuest": false
                 }

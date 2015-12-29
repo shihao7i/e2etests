@@ -2,7 +2,7 @@
   "private": "true",
   "name": "e2etests",
   "version": "0.0.1",
-  "copyright": "(C) Polycom, Inc. 2012-2013. All Rights Reserved. No portion of this work may be copied for any purpose without the prior written permission of Polycom, Inc.",
+  "copyright": "(C) , Inc. 2012-2013. All Rights Reserved. No portion of this work may be copied for any purpose without the prior written permission of , Inc.",
   "scripts": {
     "postinstall": "grunt install",
     "test": "grunt test"

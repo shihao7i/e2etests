@@ -26,7 +26,7 @@
         "xdescribe": true,
         "xit": true,
         "spyOn": true,
-		"Polycom": true,
+		"": true,
 		"logger": true,
 		"browser": true,
         "jasmine": true,

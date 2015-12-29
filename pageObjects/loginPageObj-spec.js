@@ -156,7 +156,7 @@ describe('can use the loginPage object', function () {
     });
 });
 
-//https://confluence.polycom.com:8443/display/CLARCH/Client+API+-+String+parameters
+//https://confluence..com:8443/display/CLARCH/Client+API+-+String+parameters
 describe('login page pre-populates fields given in query parameter', function () {
     var meetingObj;
     beforeEach(function () {
@@ -200,7 +200,7 @@ describe('login page pre-populates fields given in query parameter', function ()
     });
 });
 
-//https://confluence.polycom.com:8443/display/CLARCH/Client+API+-+String+parameters
+//https://confluence..com:8443/display/CLARCH/Client+API+-+String+parameters
 describe('login page pre-populates fields from cookie', function() {
     var originalTimeout;
 

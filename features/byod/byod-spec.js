@@ -17,7 +17,7 @@ var authUser1Info = nconf.get("test_config").users.authenticated[0],
 
 // The following cases are wrong, the below should be based off of settings.json not hardcoded usernames and vmrs
         //login: {
-        //    command: "polycom.auth.Login({username:'devtest01', password:'Polycom123'})",
+        //    command: ".auth.Login({username:'devtest01', password:'123'})",
         //    response: [
         //        {
         //            'source': 'auth',
@@ -34,7 +34,7 @@ var authUser1Info = nconf.get("test_config").users.authenticated[0],
         //},
 
         //connectRequest: {
-        //    command: "polycom.epctrl.ConnectRequest({'epId': 21})",
+        //    command: ".epctrl.ConnectRequest({'epId': 21})",
         //    response: [
         //        {
         //            'source': 'epctrl',
@@ -54,7 +54,7 @@ var authUser1Info = nconf.get("test_config").users.authenticated[0],
         //},
 
         //joinRequest: {
-        //    command: "polycom.meetingCollab.JoinRequest({'meetingID':'442001', 'meetingPin':'1234'})",
+        //    command: ".meetingCollab.JoinRequest({'meetingID':'442001', 'meetingPin':'1234'})",
         //    response: [
         //        {
         //            "source":"meetingCollab",
@@ -74,11 +74,11 @@ var authUser1Info = nconf.get("test_config").users.authenticated[0],
         //},
 
         //setMyLocation: {
-        //    command: "polycom.location.SetMyLocation({'locationId': '21'})",
+        //    command: ".location.SetMyLocation({'locationId': '21'})",
         //},
         //
         //dialToEpRequest: {
-        //    command: "polycom.meetingCollab.DialToEpRequest({'epId': '21'})",
+        //    command: ".meetingCollab.DialToEpRequest({'epId': '21'})",
         //    response: [
         //        {
         //            "source":"meetingCollab",
@@ -94,7 +94,7 @@ var authUser1Info = nconf.get("test_config").users.authenticated[0],
         //},
 
         //hangupEpRequest: {
-        //    command: "polycom.meetingCollab.HangupEpRequest({'epId': '21'})",
+        //    command: ".meetingCollab.HangupEpRequest({'epId': '21'})",
         //    response: [
         //        {"source":"meetingCollab","event":"MeetingStatusNotification",
         //            "value":{

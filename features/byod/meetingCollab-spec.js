@@ -25,7 +25,7 @@ var saveScreenShots = nconf.get("test_config").pixdiff.generate,
 var requests = {
     'JoinRequest(meetingID)': {
         command: function(context) {
-            return 'polycom.meetingCollab.JoinRequest({meetingID: "' +context.byodUser.meetingInfo.id + '"})';
+            return '.meetingCollab.JoinRequest({meetingID: "' +context.byodUser.meetingInfo.id + '"})';
         },
         response: function(context) {
             var role = 'Chairperson'; //context.role;
@@ -76,7 +76,7 @@ describe('can exercise other meetingCollab apis', function () {
             url: meaurl + '/?onload=protractorCallback',
             avcEnabled: false
         };
-        var authRequest = 'polycom.auth.Login({username:"' + authUser1Info.userName +
+        var authRequest = '.auth.Login({username:"' + authUser1Info.userName +
             '", password:"' + authUser1Info.password + '"})';
         logger.debug(authRequest);
         this.byodUser = new EmbeddedUser(authUser1Info, meeting, browser);

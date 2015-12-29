@@ -1092,18 +1092,18 @@
     "duration": 1261
   },
   {
-    "description": "can respond to our request polycom.getVersion()",
+    "description": "can respond to our request .getVersion()",
     "assertions": [
       {
         "passed": false,
-        "errorMsg": "Expected [ Object({ source: 'polycom', event: 'version', value: Object({ error: Object({ status: 404, reason: 'Invalid status code from server' }) }) }) ] to equal [ Object({ source: 'polycom', event: 'version', value: Object({ error: Object({ status: 404, reason: 'Invalid status code from server' }), version: Function }) }) ].",
-        "stackTrace": "Error: Failed expectation\n    at C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\features\\byod\\polycom-spec.js:172:47\n    at tryCatcher (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\bluebird\\js\\main\\util.js:26:23)\n    at Promise._settlePromiseFromHandler (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\bluebird\\js\\main\\promise.js:507:31)\n    at Promise._settlePromiseAt (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\bluebird\\js\\main\\promise.js:581:18)\n    at Async._drainQueue (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\bluebird\\js\\main\\async.js:128:12)\n    at Async._drainQueues (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\bluebird\\js\\main\\async.js:133:10)\n    at Immediate.Async.drainQueues [as _onImmediate] (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\bluebird\\js\\main\\async.js:15:14)\n    at processImmediate [as _immediateCallback] (timers.js:368:17)"
+        "errorMsg": "Expected [ Object({ source: '', event: 'version', value: Object({ error: Object({ status: 404, reason: 'Invalid status code from server' }) }) }) ] to equal [ Object({ source: '', event: 'version', value: Object({ error: Object({ status: 404, reason: 'Invalid status code from server' }), version: Function }) }) ].",
+        "stackTrace": "Error: Failed expectation\n    at C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\features\\byod\\-spec.js:172:47\n    at tryCatcher (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\bluebird\\js\\main\\util.js:26:23)\n    at Promise._settlePromiseFromHandler (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\bluebird\\js\\main\\promise.js:507:31)\n    at Promise._settlePromiseAt (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\bluebird\\js\\main\\promise.js:581:18)\n    at Async._drainQueue (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\bluebird\\js\\main\\async.js:128:12)\n    at Async._drainQueues (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\bluebird\\js\\main\\async.js:133:10)\n    at Immediate.Async.drainQueues [as _onImmediate] (C:\\Users\\shli\\Desktop\\chardonnay\\e2etests\\node_modules\\bluebird\\js\\main\\async.js:15:14)\n    at processImmediate [as _immediateCallback] (timers.js:368:17)"
       }
     ],
     "duration": 1402
   },
   {
-    "description": "can respond to our request polycom.setLogLevel({level: \"error\"})",
+    "description": "can respond to our request .setLogLevel({level: \"error\"})",
     "assertions": [
       {
         "passed": true

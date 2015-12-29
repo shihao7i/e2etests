@@ -23,7 +23,7 @@ var saveScreenShots = nconf.get("test_config").pixdiff.generate,
 
 var requests = {
     'auth.Login(good credentials)': {
-        command: 'polycom.auth.Login({username:"' +
+        command: '.auth.Login({username:"' +
         authUser1Info.userName + '", password:"' + authUser1Info.password + '"})',
         response: [
             {
@@ -42,7 +42,7 @@ var requests = {
         ]
     },
     'auth.Login(bad credentials)': {
-        command: 'polycom.auth.Login({username:"bad", password:"password"})',
+        command: '.auth.Login({username:"bad", password:"password"})',
         response: [
             {
                 "source": "auth",

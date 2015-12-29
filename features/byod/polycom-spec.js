@@ -23,10 +23,10 @@ var saveScreenShots = nconf.get("test_config").pixdiff.generate,
 
 var requests = {
     ServiceListRequest: {
-        command: 'polycom.ServiceListRequest()',
+        command: '.ServiceListRequest()',
         response: [
             {
-                'source': 'polycom',
+                'source': '',
                 'event': 'ServiceListResponse',
                 'value': {
                     "services": [
@@ -53,10 +53,10 @@ var requests = {
     },
 
     ServiceVersionRequest_Good_Example1: {
-        command: "polycom.ServiceVersionRequest({'service': 'epctrl','versions': ['1', '2']})",
+        command: ".ServiceVersionRequest({'service': 'epctrl','versions': ['1', '2']})",
         response: [
             {
-                "source": "polycom",
+                "source": "",
                 "event": "ServiceVersionResponse",
                 "value": {"service": "epctrl", "version": "1", "status": true}
             }
@@ -64,10 +64,10 @@ var requests = {
     },
 
     ServiceVersionRequest_Good_Example2: {
-        command: "polycom.ServiceVersionRequest({'service': 'authentication','versions': ['1']})",
+        command: ".ServiceVersionRequest({'service': 'authentication','versions': ['1']})",
         response: [
             {
-                "source": "polycom",
+                "source": "",
                 "event": "ServiceVersionResponse",
                 "value": {"service": "authentication", "version": "1", "status": true}
             }
@@ -75,10 +75,10 @@ var requests = {
     },
 
     ServiceVersionRequest_Bad_Example1: {
-        command: "polycom.ServiceVersionRequest({'service': 'unknown','versions': ['1']})",
+        command: ".ServiceVersionRequest({'service': 'unknown','versions': ['1']})",
         response: [
             {
-                "source": "polycom",
+                "source": "",
                 "event": "ServiceVersionResponse",
                 "value": {"service": "unknown", "version": "", "status": false}
             }
@@ -86,21 +86,21 @@ var requests = {
     },
 
     ServiceVersionRequest_Bad_Example2: {
-        command: "polycom.ServiceVersionRequest({'service': 'authentication','versions': ['2']})",
+        command: ".ServiceVersionRequest({'service': 'authentication','versions': ['2']})",
         response: [
             {
-                "source": "polycom",
+                "source": "",
                 "event": "ServiceVersionResponse",
                 "value": {"service": "authentication", "version": "", "status": false}
             }
         ]
     },
 
-    'polycom.getVersion()': {
-        'command': 'polycom.getVersion()',
+    '.getVersion()': {
+        'command': '.getVersion()',
         response: [
             {
-                "source": "polycom",
+                "source": "",
                 "event": "version",
                 "value": {
                     "version": function(value) {
@@ -110,10 +110,10 @@ var requests = {
             }
         ]
     },
-    'polycom.setLogLevel({level: "error"})': {
-        'command': 'polycom.setLogLevel({level: "error"}); logger.debug("hello"); logger.error("hi");',
+    '.setLogLevel({level: "error"})': {
+        'command': '.setLogLevel({level: "error"}); logger.debug("hello"); logger.error("hi");',
         response: [{
-            source: "polycom",
+            source: "",
             event: "Log",
             value: {
                 message: function(value) {
@@ -126,7 +126,7 @@ var requests = {
 
 };
 
-describe('creating an ad-hoc meeting to test polycom.* apis', function () {
+describe('creating an ad-hoc meeting to test .* apis', function () {
     it('creating adhoc meeting is successful', function (done) {
         loginHelpers.createAdHocMeeting(authUser1Info)
             .then(function (result) {
@@ -139,7 +139,7 @@ describe('creating an ad-hoc meeting to test polycom.* apis', function () {
     });
 });
 
-describe('can exercise other polycom apis', function () {
+describe('can exercise other  apis', function () {
     beforeEach(function (done) {
         var meeting = {
             id: meetingInfo.id,
